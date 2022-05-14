@@ -3,6 +3,8 @@
    <img src="https://github.com/alkdeveloper/alkdeveloper/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" alt="CL Thumb" border="0" width="50%">
 </p>
 
+# Just a Feel Things About Me
+
 **I'm Pedro Henrique**
 
 24 years, old but 3 years in love with programming
@@ -24,6 +26,7 @@
 > Student of the Computer Engineering Course 3/10 by UNIFACS (University Salvador)
 
 *********************************************************************************************
+# Algumas Coisas Sobre Mim
 
 **Eu Sou Pedro Henrique**
 
