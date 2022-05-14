@@ -1,4 +1,5 @@
 **I'm Pedro Henrique**
+
 24 years, old but 3 years in love with programming
 
 - I find myself learning C language working on a mmorpg game (2020 - 2022)
@@ -17,7 +18,10 @@
 
 > Student of the Computer Engineering Course 3/10 by UNIFACS (University Salvador)
 
-**Eu sou Pedro Henrique**
+*********************************************************************************************
+
+**Eu Sou Pedro Henrique**
+
 24 anos, faz 3 anos que estou apaixonado pela programação
 
 - Eu estou aprendendo a linguagem C trabalhando em um jogo de mmorpg (2020 - 2022)
