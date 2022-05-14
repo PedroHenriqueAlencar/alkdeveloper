@@ -1,3 +1,8 @@
+<p>
+   <!-- <img src="https://i.imgur.com/gjPALxy.jpg" alt="CL Thumb" border="0" width="50%"> -->
+   <img src="https://github.com/alkdeveloper/alkdeveloper/blob/main/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" alt="CL Thumb" border="0" width="50%">
+</p>
+
 **I'm Pedro Henrique**
 
 24 years, old but 3 years in love with programming
