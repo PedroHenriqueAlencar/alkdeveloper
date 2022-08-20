@@ -1,0 +1,60 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication1;
+
+import java.util.Scanner;
+import static jdk.nashorn.tools.ShellFunctions.input;
+
+/**
+ *
+ * @author 1272117428
+ */
+public class JavaApplication1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+        
+      Scanner input = new Scanner(System.in);
+      
+      double h;
+      
+      System.out.println("digite um valor para altura:");
+      h = input.nextDouble();
+      
+      if(h <= 0)
+      {
+         System.out.println("Altura não pode ser = 0");
+         return;
+      }
+      
+      System.out.println("Digite M para Masculino, F para Feminino e I para Indefinido");
+              
+      String sexo = input.next();
+      
+      if (sexo.equals("M"))
+      {
+         System.out.println("Você é machão!!!!"); 
+      }
+      else if (sexo.equals("F"))
+      {
+         System.out.println("Você é mocinhaaaa!!!!"); 
+      }
+      else if (sexo.equals("I"))
+      {
+         System.out.println("Você é não binário!!!!"); 
+      }
+      else
+      {
+          System.out.println("Você é Assexuado!!!!"); 
+      }
+        
+    // TODO code application logic here
+    }
+    
+}
