@@ -7,7 +7,7 @@
 
 **I'm Pedro Henrique**
 
-24 years, old but 3 years in love with programming
+25 years, old but 4 years in love with programming
 
 - I find myself learning C language working on a mmorpg game (2020 - 2022)
 
@@ -30,7 +30,7 @@
 
 **Eu Sou Pedro Henrique**
 
-24 anos, faz 3 anos que estou apaixonado pela programação
+25 anos, faz 4 anos que estou apaixonado pela programação
 
 - Eu estou aprendendo a linguagem C trabalhando em um jogo de mmorpg (2020 - 2022)
 
