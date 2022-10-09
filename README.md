@@ -23,7 +23,7 @@
 - <b>Microsoft Visual Studio C++ 2019</b> 
 - <b>Notepad++</b> 
 
-> Student of the Computer Engineering Course 3/10 by UNIFACS (University Salvador)
+> Student of the Computer Engineering Course 4/10 by UNIFACS (University Salvador)
 
 *********************************************************************************************
 # Algumas Coisas Sobre Mim
@@ -46,4 +46,4 @@
 - <b>Microsoft Visual Studio C++ 2019</b> 
 - <b>Notepad++</b> 
 
-> Estudante do Curso de Engenharia da Computação 3/10 pela UNIFACS (Universidade Salvador)
+> Estudante do Curso de Engenharia da Computação 4/10 pela UNIFACS (Universidade Salvador)
